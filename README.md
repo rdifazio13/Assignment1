@@ -15,7 +15,7 @@ Series E funding from Goldman Sachs, Rizvi Traverse Management, and GIC Private 
 
 ---
 
-## Business Activities:
+## Business Activities
 Square’s goal, according to the Motley Fool is “to democratize commerce.”  Square first launched with a credit card reader that could plug into mobile phones to help small businesses accept credit cards. But over the past decade, Square has innovated the digital payment process for all different sized corporations. Square launched many different products for mobile phones and tablets as technology has evolved. Square now provides payment processing, analytics, and lending capital to merchants now as well (Motley Fool). Square prides itself on the relationship they have with small to medium-sized business communities and it has often been referred to as an operating system for small business. Square’s main customers have been businesses with annualized gross payment volume of less than $125,000. “Most of the sellers that use our services are small businesses, many of which are in the early stages of their development…,” the company wrote in its S-1 filing (VentureBeat and SEC). According to CSI Market, due to strong revenue growth of 26.73 % in 3Q21 Square Inc improved its market share, to approximate 5.47 %. Square’s valuation is currently over $100 billion dollars. According to the Motley Fool, there are about 20 million businesses in the U.S. that have $6 trillion in gross receipts. Square has carved out a piece of this giant pie for themselves in less than a decade.
 Square has a marketplace, software, card reader, POS system, and a lending platform. They have become a one stop shop platform to meet all needs for their growing clientele. They have acquired several companies ranging from tax services, food delivery services, and money lending platforms to expand as they cater to different sectors. Square faces fierce competition from companies like PayPal, Verifone, Microsoft, Oracle, Venmo, as well as the traditional credit card companies like American Express, Mastercard, and Visa. Their low fees and simple user friendly platforms have helped them carve out there growing market share.   
 
@@ -25,7 +25,7 @@ Square is the company it is today due to its use of NFC. NFC stands for “near 
 
 ---
 
-## Landscape:
+## Landscape
 Square has positioned itself to be in several domains in the finance industry. This includes finance, banking, loans, money, accounting, and tax. Square did not start out in all these sectors but overtime they grew to fit their customers’ needs and acquired several different companies to expand their empire. I chose to focus solely on Square and their initial core company, but they have expanded into ventures like Cash, Tidal, Caviar, and now cryptocurrencies. My father is a small business owner and I have learned from him how tedious, stressful, and complicated, and quite frankly, intimidating, it is to run a business. I believe that Square clearly catered to this need and helped simplify the intimidation factor of the financial side of running a business. Another trend and innovation were mobile payments. Food trucks, pop up shops, farmers markets all now have access to the latest technology on the go, no matter where they are. Square met the need for businesses that don’t have the standard business front. The food trucks that sit outside my office all now use Square. The tech giant has now also ventured into the ever-expanding world of crypto. Square has Bitcoin on its balance sheet and with the Cash App, they have now made it easy to trade cryptos. The possibilities are endless as these technologies are adopted and utilized. Verifone, Venmo, traditional banks, and traditional credit cards are what comes to mind when I think of major companies in this domain. Square has its hands in so many pockets that it is hard to find a company that they do not compete with in some capacity. 
 
 ---
@@ -67,12 +67,20 @@ https://www.wired.com/2014/07/exclusive-square-bets-big-on-next-gen-credit-card-
 https://www.fool.com/investing/general/2016/04/09/understanding-squares-business-model.aspx 
 
 https://www.fastcompany.com/90253151/square-takes-on-the-clunky-old-school-payment-terminal 
+
 https://businessdegrees.uab.edu/blog/how-square-revolutionized-payment-processing/#:~:text=Square's%20portable%2C%20pocket%2Dsized%20credit,how%20the%20world%20does%20business.
+
 https://www.sec.gov/Archives/edgar/data/1512673/000119312515343733/d937622ds1.htm 
+
 https://www.statista.com/topics/3242/square/ 
+
 https://www.fool.com/investing/2021/09/03/squares-160-billion-market-opportunity-and-how-it/ 
+
 https://expandedramblings.com/index.php/square-statistics/ 
+
 https://squareup.com/us/en/press/dessa-joins-square 
+
 https://www.businessofapps.com/data/paypal-statistics/ 
+
 https://squareup.com/help/us/en/article/6159-protect-yourself-from-scams-and-fraud#:~:text=Square%20Secure%2C%20the%20set%20of,ll%20alert%20you%20via%20email. 
 ```
