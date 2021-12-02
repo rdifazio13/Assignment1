@@ -52,8 +52,8 @@ Square is a force to reckon with that has an extremely bright future ahead of th
 
 
 
-# Work Cited:
-
+# Work Cited
+```markdown
 https://www.investopedia.com/articles/tech/021017/square.asp 
 
 https://www.pymnts.com/mpos-tracker/2017/square-jack-dorsey-cash-capital-first-data-vantiv-paypal-uk-apple-pay-debit-pymnts-mpos-tracker-mobile-payments-mobile-point-of-sale/ 
@@ -75,3 +75,4 @@ https://expandedramblings.com/index.php/square-statistics/
 https://squareup.com/us/en/press/dessa-joins-square 
 https://www.businessofapps.com/data/paypal-statistics/ 
 https://squareup.com/help/us/en/article/6159-protect-yourself-from-scams-and-fraud#:~:text=Square%20Secure%2C%20the%20set%20of,ll%20alert%20you%20via%20email. 
+```
